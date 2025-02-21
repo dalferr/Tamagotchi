@@ -13,6 +13,6 @@ Juego desarrollado en Java para la asignatura Ingeniería del Software de Segund
 
 ## Diagramas de clases
 ### DCJuego
-[](https://github.com/dalferr/Tamagotchi/blob/master/Documentacion/Diagramas_de_clases/patronJuego.jpg)
+[] (https://github.com/dalferr/Tamagotchi/blob/master/Documentacion/Diagramas_de_clases/patronJuego.jpg)
 ### DCExpansión
-[](https://github.com/dalferr/Tamagotchi/blob/master/Documentacion/Diagramas_de_clases/DCExpansion.png)
+[] (https://github.com/dalferr/Tamagotchi/blob/master/Documentacion/Diagramas_de_clases/DCExpansion.png)
